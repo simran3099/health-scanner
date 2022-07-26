@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rg1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".Symptom1">
+
+
+    <Button
+        android:id="@+id/p1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="547dp"
+        android:layout_marginEnd="231dp"
+        android:layout_marginBottom="131dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Previous"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/S2"
+        android:layout_width="347dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="101dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="570dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Fever"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    2
+
+    <RadioGroup
+        android:id="@+id/rg2"
+        android:layout_width="315dp"
+        android:layout_height="107dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="241dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="383dp"
+        android:animateLayoutChanges="true"
+        android:clickable="true"
+        android:clipToPadding="true"
+        android:divider="@drawable/bg1"
+        android:dividerPadding="10dp">
+
+        <RadioButton
+            android:id="@+id/y2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:checked="false"
+            android:paddingStart="10dp"
+            android:paddingBottom="10dp"
+            android:text="Yes"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="30sp"
+
+            />
+
+        <RadioButton
+            android:id="@+id/n2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:paddingStart="10dp"
+            android:paddingTop="10dp"
+            android:text="No"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="30sp" />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/nxt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="253dp"
+        android:layout_marginTop="547dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="131dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+
+</RelativeLayout>

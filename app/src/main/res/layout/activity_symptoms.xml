@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg4"
+    tools:context=".SymptomsActivity">
+
+
+    <EditText
+        android:id="@+id/ques"
+        android:layout_width="364dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:fontFamily="serif"
+        android:inputType="textLongMessage|textPersonName"
+        android:text="Covid Prediction"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.404"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.468"
+        tools:text="Covid Prediction" />
+
+    <Button
+        android:id="@+id/Symptomsbtn"
+        android:layout_width="176dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="280dp"
+        android:background="#93D7DF"
+        android:elevation="10dp"
+        android:fontFamily="cursive"
+        android:text="Click here"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#673AB7"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ques"
+        app:layout_constraintVertical_bias="0.696" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="376dp"
+        android:layout_height="524dp"
+        app:layout_constraintBottom_toTopOf="@+id/ques"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.256"
+        app:srcCompat="@drawable/ic_stethoscope" />
+
+    <EditText
+        android:id="@+id/txt"
+        android:layout_width="334dp"
+        android:layout_height="73dp"
+        android:ems="10"
+        android:fontFamily="serif"
+        android:inputType="textLongMessage|textPersonName"
+        android:text="to enter symptoms"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Symptomsbtn"
+        app:layout_constraintVertical_bias="0.078" />
+
+    <Button
+        android:id="@+id/Logout"
+        android:layout_width="165dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Sign Out"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txt"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toStartOf="@+id/txt"
+        app:layout_constraintTop_toBottomOf="@+id/txt"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsActivity"
+    android:background="@drawable/bg4">
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="342dp"
+        android:layout_height="659dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text=" Logistic Regression:\n
+Accuracy on Israel data- 94.99%\n
+Accuracy on Indian data( collected by survey)-75.83%\n\n
+K-Nearest Neighbour:\n
+Accuracy on Israeli data- 95.04%\n
+Accuracy on Indian data-71.14%\n\n
+Gradient Boosting:\n
+Accuracy on Israeli data-95.61%\n
+Accuracy on Indian data- 73.15%\n\n
+Random Forest:\n
+Accuracy on Israeli data- 93.97%\n
+Accuracy on Indian data-78.52\n\n
+Naive bayes(Gaussian Naive Bayes used):\n
+Accuracy on Israeli data-94.22\n
+Accuracy on Indian data-72.48%\n\n
+Scalar Vector Machine:\n
+Accuracy on Israeli data-94.41%\n
+Accuracy on Indian data-73.82%\n
+"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.944" />
+</androidx.constraintlayout.widget.ConstraintLayout>

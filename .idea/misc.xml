@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HealthScanner/app/src/main/res/drawable/custom_button.xml" value="0.2275" />
+        <entry key="..\:/HealthScanner/app/src/main/res/drawable/custom_entry.xml" value="0.169" />
+        <entry key="..\:/HealthScanner/app/src/main/res/drawable/custom_input.xml" value="0.2275" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_logged_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_password_reset.xml" value="0.21965579710144928" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/activity_symptoms.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_Prediction.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_prediction.xml" value="0.176" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom1.3.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom1.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom1_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom1_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom2.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom3.2.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom3.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom3_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom3_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom4.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom4_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom5.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom6.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom7.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/fragment_symptom8.xml" value="0.22826086956521738" />
+        <entry key="..\:/HealthScanner/app/src/main/res/layout/layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/HealthScanner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Project/After changes/HealthScanner/app/src/main/res/layout/fragment_prediction.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/After changes/HealthScanner/app/src/main/res/layout/fragment_symptom1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/After changes/HealthScanner/app/src/main/res/layout/fragment_symptom1_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/After changes/HealthScanner/app/src/main/res/layout/fragment_symptom1_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/After changes/HealthScanner/app/src/main/res/layout/fragment_symptom2.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

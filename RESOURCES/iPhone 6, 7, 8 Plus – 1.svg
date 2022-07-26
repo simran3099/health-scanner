@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="736" viewBox="0 0 414 736">
+  <defs>
+    <filter id="Path_1" x="-9" y="-5.761" width="432" height="256.029" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#070505" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_6_7_8_Plus_1">
+      <rect width="414" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_Plus_1" data-name="iPhone 6, 7, 8 Plus – 1" clip-path="url(#clip-iPhone_6_7_8_Plus_1)">
+    <rect width="414" height="736" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M263,255.956c112.9,52.976,148.262-42.142,239.721-38.483s175.014,97.557,175.014,97.557v-332.1H263" transform="translate(-263 -9.932)" fill="#6772d6" opacity="0.57"/>
+    <path id="Path_2" data-name="Path 2" d="M263,255.956c127.531,42.626,149.469-30.228,245.819-32.98S677.735,304.4,677.735,304.4V-17.068H263" transform="translate(-263 -26.41)" fill="#5e6df6" opacity="0.57"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1)">
+      <path id="Path_1-2" data-name="Path 1" d="M263,194.331c125.847,58.634,146.2-27.959,255.752-29.47S677,219.268,677,219.268V-18.761H263Z" transform="translate(-263 17)" fill="#4753e3"/>
+    </g>
+  </g>
+</svg>

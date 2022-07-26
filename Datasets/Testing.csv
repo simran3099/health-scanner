@@ -1,0 +1,150 @@
+cough,fever,sore_throat,shortness_of_breath,head_ache,corona_result,age_60_and_above,gender,test_indication
+1,1,1,0,1,positive,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+1,1,1,0,1,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,0,0,0,positive,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,0,1,positive,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,1,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,1,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Contact with confirmed
+0,0,0,0,0,negative,0,female,Contact with confirmed
+0,1,0,1,1,positive,0,female,Other
+1,1,1,0,0,negative,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,1,negative,0,female,Contact with confirmed
+0,0,0,0,1,negative,0,female,Other
+0,1,1,0,1,positive,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,1,0,1,positive,0,female,Other
+1,1,1,0,0,positive,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,0,1,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,0,0,0,0,positive,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,1,1,positive,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,0,0,positive,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,0,1,negative,0,male,Contact with confirmed
+0,1,1,0,1,positive,0,female,Other
+0,0,1,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,1,0,0,0,positive,0,male,Contact with confirmed
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+1,0,0,1,1,positive,0,male,Other
+1,1,1,0,1,positive,0,male,Contact with confirmed
+1,1,1,0,1,positive,0,male,Contact with confirmed
+1,1,1,0,1,positive,0,female,Contact with confirmed
+1,1,1,1,1,positive,0,male,Contact with confirmed
+0,0,0,1,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,1,1,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,1,0,1,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,1,0,negative,0,female,Contact with confirmed
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,positive,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+1,1,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+1,1,1,0,0,negative,0,male,Other
+0,1,1,0,0,positive,0,female,Contact with confirmed
+0,0,0,0,0,positive,0,male,Contact with confirmed
+0,0,0,0,0,negative,0,male,Other
+1,1,1,0,0,negative,0,male,Other
+0,1,1,0,0,negative,0,male,Other
+0,0,0,0,0,negative,0,female,Other
+0,1,0,0,0,negative,0,male,Other
+0,1,1,0,0,negative,0,male,Other
+1,1,1,1,0,positive,0,male,Other
+1,1,0,0,0,negative,0,male,Other
+1,1,1,1,0,negative,0,male,Other
+0,0,1,0,0,negative,0,male,Other
+1,0,1,0,0,negative,0,male,Other
+1,1,1,1,0,positive,0,male,Other
+1,1,0,0,0,positive,0,male,Other
+0,1,0,1,0,positive,0,male,Other
+1,1,1,1,0,positive,0,male,Other
+0,1,0,0,0,negative,0,male,Other
+1,1,1,0,0,negative,0,male,Other
+1,0,1,1,0,negative,0,male,Other
+1,1,0,1,0,positive,0,male,Other
+1,1,0,0,0,negative,0,male,Other
+1,0,1,0,0,negative,0,male,Other
+0,1,1,1,0,positive,0,male,Other
+1,1,0,1,0,positive,0,male,Other
+0,1,0,1,0,positive,0,male,Other
+1,1,1,1,0,positive,0,male,Other
+0,1,1,0,0,negative,0,male,Other
+1,1,0,0,0,positive,0,male,Other
+1,0,0,1,0,positive,0,male,Other
+0,0,1,0,0,negative,0,male,Other
+1,0,0,0,0,negative,0,female,Other
+0,1,1,1,0,positive,0,female,Other
+1,1,0,0,0,negative,0,female,Other
+1,1,1,0,0,positive,0,female,Other
+1,0,0,0,0,negative,0,female,Other
+1,0,1,0,0,positive,0,female,Other
+0,1,1,0,0,positive,0,female,Other
+1,1,0,1,0,negative,0,female,Other
+1,1,1,0,0,negative,0,female,Other
+1,0,1,0,0,negative,0,female,Other
+1,1,1,0,0,positive,0,female,Other
+1,0,0,1,0,negative,0,female,Other
+1,1,0,1,0,positive,0,female,Other
+1,1,0,1,0,positive,0,female,Other
+1,0,1,0,0,negative,0,female,Other
+1,1,1,0,0,positive,0,female,Other
+0,1,0,0,0,negative,0,female,Other
+1,0,1,1,0,positive,0,female,Other
+1,0,1,1,0,positive,0,female,Other
+0,1,0,0,0,negative,0,female,Other
+1,1,1,1,0,positive,0,female,Other
+0,1,1,1,0,negative,0,female,Other
+1,0,1,0,0,negative,0,female,Other
+1,0,1,1,0,positive,0,female,Other

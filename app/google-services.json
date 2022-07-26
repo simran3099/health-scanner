@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004920463737",
+    "project_id": "coviexpert-38cd5",
+    "storage_bucket": "coviexpert-38cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004920463737:android:d9a13fd808fb80fc3e8fa8",
+        "android_client_info": {
+          "package_name": "com.finalyearproject.coviexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004920463737-kguntuhdhdrc20pavbg0d42fv06o9sca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalyearproject.coviexpert",
+            "certificate_hash": "695842bb500f8765c6a597906f6bc88961410544"
+          }
+        },
+        {
+          "client_id": "1004920463737-03blpht9ajbvqmom01jg1ar1js9qcmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroiO4HTcIw0vlDwHPC-8bIxo3qSR4hTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004920463737-03blpht9ajbvqmom01jg1ar1js9qcmvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

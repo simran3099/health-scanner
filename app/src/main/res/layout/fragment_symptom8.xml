@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".Symptom1">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/S8"
+        android:layout_width="wrap_content"
+        android:layout_height="112dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="524dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Please mark one of the queries"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:id="@+id/rg8"
+        android:layout_width="315dp"
+        android:layout_height="153dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="241dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="337dp"
+        android:animateLayoutChanges="true"
+        android:clickable="true"
+        android:clipToPadding="true"
+        android:divider="@drawable/bg1"
+        android:dividerPadding="10dp">
+
+        <RadioButton
+            android:id="@+id/y8"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:checked="false"
+            android:paddingStart="10dp"
+            android:paddingBottom="10dp"
+            android:text="Contact With Confirmed"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="24sp"
+
+            />
+
+        <RadioButton
+            android:id="@+id/n8"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:paddingStart="10dp"
+            android:paddingTop="10dp"
+            android:text="Went Abroad"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <RadioButton
+            android:id="@+id/others"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:paddingStart="10dp"
+            android:paddingTop="10dp"
+            android:text="Others"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/p8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="454dp"
+        android:layout_marginEnd="239dp"
+        android:layout_marginBottom="221dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Previous"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="236dp"
+        android:layout_marginTop="455dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="224dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+
+</RelativeLayout>

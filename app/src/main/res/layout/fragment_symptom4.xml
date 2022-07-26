@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".Symptom1">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/S4"
+        android:layout_width="347dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="584dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Shortness of Breath"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/rg4"
+        android:layout_width="315dp"
+        android:layout_height="107dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="241dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="383dp"
+        android:animateLayoutChanges="true"
+        android:clickable="true"
+        android:clipToPadding="true"
+        android:divider="@drawable/bg1"
+        android:dividerPadding="10dp">
+
+        <RadioButton
+            android:id="@+id/y4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:checked="false"
+            android:paddingStart="10dp"
+            android:paddingBottom="10dp"
+            android:text="Yes"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="30sp"
+
+            />
+
+        <RadioButton
+            android:id="@+id/n4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_entry"
+            android:paddingStart="10dp"
+            android:paddingTop="10dp"
+            android:text="No"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="30sp" />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/p4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="541dp"
+        android:layout_marginEnd="236dp"
+        android:layout_marginBottom="134dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Previous"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/nxt4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="236dp"
+        android:layout_marginTop="538dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="140dp"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+
+
+</RelativeLayout>
